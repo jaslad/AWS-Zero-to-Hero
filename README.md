@@ -120,6 +120,25 @@ This section provides a detailed understanding of Amazon VPC — how to design, 
 | 6.11| [VPC PrivateLink and Lattice](./Virtual%20Private%20Cloud(VPC)/VPC%20PrivateLink%20&%20Lattice/) | Explaining the different methods of private communications - Lattice and PrivateLink|
 
 ---
+## 7. AWS Elastic Compute Cloud (EC2)
+
+This section covers Amazon EC2 — the backbone of AWS compute. You'll learn how to launch and manage virtual machines, understand instance types and pricing models, configure networking interfaces, control placement and tenancy, and set up web servers on EC2 instances.
+
+📂 **[Explore → AWS Elastic Compute Cloud](./Elastic%20Compute%20Cloud/)**
+
+| # | Sub-Topic | Description |
+|---|-----------|-------------|
+| 7.1 | [Introduction to EC2](./Elastic%20Compute%20Cloud/Introduction%20to%20EC2/) | What EC2 is, AMIs, instance lifecycle, and launching your first instance |
+| 7.2 | [Elastic Network Interface](./Elastic%20Compute%20Cloud/Elastic%20Network%20Interface/) | ENIs — attaching, detaching, and managing network interfaces on EC2 |
+| 7.3 | [Instance Types and Purchase Options](./Elastic%20Compute%20Cloud/Instance%20Types%20and%20Purchase%20Options/) | On-Demand, Reserved, Spot, and Savings Plans — choosing the right option |
+| 7.4 | [Key-Pair and SSH Clients](./Elastic%20Compute%20Cloud/Key-Pair%20and%20SSH%20Clients/) | Generating key pairs, connecting via SSH, and managing access |
+| 7.5 | [Placement Groups](./Elastic%20Compute%20Cloud/Placement-Groups/) | Cluster, Spread, and Partition placement strategies for performance and HA |
+| 7.6 | [Tenancy and Tenancy Types](./Elastic%20Compute%20Cloud/Tenancy%20and%20Tenancy%20Types/) | Shared, Dedicated Instance, and Dedicated Host — isolation and compliance |
+| 7.7 | [Webservers](./Elastic%20Compute%20Cloud/Webservers/) | Installing and configuring web servers (Apache/Nginx) on EC2 instances |
+
+---
+
+
 
 ## 🛠️ Prerequisites
 
