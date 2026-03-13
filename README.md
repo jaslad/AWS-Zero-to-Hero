@@ -129,12 +129,13 @@ This section covers Amazon EC2 — the backbone of AWS compute. You'll learn how
 | # | Sub-Topic | Description |
 |---|-----------|-------------|
 | 7.1 | [Introduction to EC2](./Elastic%20Compute%20Cloud/Introduction%20to%20EC2/) | What EC2 is, AMIs, instance lifecycle, and launching your first instance |
-| 7.2 | [Elastic Network Interface](./Elastic%20Compute%20Cloud/Elastic%20Network%20Interface/) | ENIs — attaching, detaching, and managing network interfaces on EC2 |
-| 7.3 | [Instance Types and Purchase Options](./Elastic%20Compute%20Cloud/Instance%20Types%20and%20Purchase%20Options/) | On-Demand, Reserved, Spot, and Savings Plans — choosing the right option |
-| 7.4 | [Key-Pair and SSH Clients](./Elastic%20Compute%20Cloud/Key-Pair%20and%20SSH%20Clients/) | Generating key pairs, connecting via SSH, and managing access |
-| 7.5 | [Placement Groups](./Elastic%20Compute%20Cloud/Placement-Groups/) | Cluster, Spread, and Partition placement strategies for performance and HA |
-| 7.6 | [Tenancy and Tenancy Types](./Elastic%20Compute%20Cloud/Tenancy%20and%20Tenancy%20Types/) | Shared, Dedicated Instance, and Dedicated Host — isolation and compliance |
-| 7.7 | [Webservers](./Elastic%20Compute%20Cloud/Webservers/) | Installing and configuring web servers (Apache/Nginx) on EC2 instances |
+| 7.2 | [Instance State and Actions](./Elastic%20Compute%20Cloud/Instance%20State%20and%20Actions/) | Describes different Instance States in Lifecycle and Different Actions to execute |
+| 7.3 | [Elastic Network Interface](./Elastic%20Compute%20Cloud/Elastic%20Network%20Interface/) | ENIs — attaching, detaching, and managing network interfaces on EC2 |
+| 7.4 | [Instance Types and Purchase Options](./Elastic%20Compute%20Cloud/Instance%20Types%20and%20Purchase%20Options/) | On-Demand, Reserved, Spot, and Savings Plans — choosing the right option |
+| 7.5 | [Key-Pair and SSH Clients](./Elastic%20Compute%20Cloud/Key-Pair%20and%20SSH%20Clients/) | Generating key pairs, connecting via SSH, and managing access |
+| 7.6 | [Placement Groups](./Elastic%20Compute%20Cloud/Placement-Groups/) | Cluster, Spread, and Partition placement strategies for performance and HA |
+| 7.7 | [Tenancy and Tenancy Types](./Elastic%20Compute%20Cloud/Tenancy%20and%20Tenancy%20Types/) | Shared, Dedicated Instance, and Dedicated Host — isolation and compliance |
+| 7.8 | [Webservers](./Elastic%20Compute%20Cloud/Webservers/) | Installing and configuring web servers (Apache/Nginx) on EC2 instances |
 
 ---
 
